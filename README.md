@@ -1,84 +1,94 @@
-# FocusFlow Landing Page
+# FitPulse Fitness Website
 
-## Project Description
+## Overview
 
-FocusFlow Landing Page is a beginner-friendly web development project created using **HTML and CSS**. The goal of this project is to design a visually attractive landing page for a productivity application called *FocusFlow*. The page introduces the app, highlights its main features, and encourages users to get started.
+**FitPulse Fitness** is a simple beginner-level fitness website created using **HTML and CSS**. The project demonstrates the basic structure of a webpage including a header, navigation menu, hero section, service section, and footer.
 
-This project helps beginners understand the basics of **web page layout, styling, and responsive design principles**.
+The website promotes a fictional fitness coaching brand called **FitPulse** and highlights services like coaching, nutrition plans, and progress tracking.
 
 ---
 
 ## Features
 
-* Clean and modern landing page design
-* Navigation bar with links
-* Hero section with headline and call-to-action button
-* Feature section with images and descriptions
-* About section explaining the product
-* Image gallery section
-* Call-to-action section
-* Footer with copyright information
+* Simple and clean **fitness website layout**
+* **Header with navigation menu**
+* **Hero banner** with motivational text and join button
+* **Services section** with three feature boxes
+* **Footer section** with copyright information
+* Beginner-friendly **HTML and CSS structure**
 
 ---
 
 ## Technologies Used
 
-* HTML
-* CSS
-
----
-
-## Images Used
-
-The landing page uses **6 images** for better visual presentation:
-
-* Hero section image
-* Three feature images
-* About section image
-* Gallery image
+* **HTML** – for webpage structure
+* **CSS** – for styling and layout design
 
 ---
 
 ## Project Structure
 
 ```
-FocusFlow-LandingPage/
+fitpulse-website/
 │
-├── index.html
-├── README.md
-├── images/
-│   ├── hero.jpg
-│   ├── feature1.jpg
-│   ├── feature2.jpg
-│   ├── feature3.jpg
-│   ├── about.jpg
-│   └── gallery.jpg
+├── index.html     # Main website file
+└── README.md      # Project documentation
 ```
+
+---
+
+## Website Sections
+
+### 1. Header
+
+The header contains:
+
+* Website logo **FITPULSE**
+* Navigation menu with links:
+
+  * Workouts
+  * Diet
+  * Pricing
+
+### 2. Hero Section
+
+The hero banner displays a motivational message:
+
+**"Strength Starts Within"**
+
+It also includes a **Join the Movement** button to encourage users to take action.
+
+### 3. Services Section
+
+This section highlights three main services offered by FitPulse:
+
+* **Elite Coaching** – Personal training sessions with professional trainers
+* **Smart Nutrition** – Meal planning and macro tracking
+* **App Tracking** – Monitor fitness progress through a mobile app
+
+The services are displayed using **three boxes arranged side-by-side**.
+
+### 4. Footer
+
+The footer displays copyright information.
 
 ---
 
 ## How to Run the Project
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open **index.html** in any web browser.
+1. Copy the code into a file.
+2. Save the file as **index.html**.
+3. Open the file using any web browser (Chrome, Edge, Firefox).
+4. The FitPulse fitness webpage will load automatically.
 
 ---
 
-## Learning Objectives
+## Possible Improvements
 
-* Understand basic **HTML page structure**
-* Learn how to style webpages using **CSS**
-* Practice layout techniques like **flexbox and grid**
-* Improve skills in **designing user-friendly web pages**
-
----
-
-## Future Improvements
-
-* Add responsive design for mobile devices
-* Include animations and hover effects
-* Add JavaScript for interactivity
-* Integrate a contact form
+* Add **responsive design** for mobile devices
+* Add **images or icons** for services
+* Add **JavaScript for interactive features**
+* Create additional pages such as **Workout Plans, Diet Plans, and Pricing**
 
 ---
+Project created for learning **HTML and CSS web development basics**.
